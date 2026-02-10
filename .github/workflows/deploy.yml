@@ -32,7 +32,6 @@ jobs:
 
       - name: Build
         run: npx @11ty/eleventy --pathprefix=/consulting-site/
-   
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
