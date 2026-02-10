@@ -14,7 +14,7 @@ title: Merve Kasap — Consulting
 </section>
 
 <div class="cta-grid">
-  <a class="cta-card" href="/investors/">
+  <a class="cta-card" href="{{ '/investors/' | url }}">
     <h2 class="cta-title">
       <span class="cta-badge cta-badge--investors" aria-hidden="true">
         <img
@@ -30,7 +30,7 @@ title: Merve Kasap — Consulting
     <span class="cta-link">Start here →</span>
   </a>
 
-  <a class="cta-card" href="/legal/">
+  <a class="cta-card" href="{{ '/legal/' | url }}">
     <h2 class="cta-title">
       <span class="cta-badge" aria-hidden="true">
         <img
@@ -46,7 +46,7 @@ title: Merve Kasap — Consulting
     <span class="cta-link">Start here →</span>
   </a>
 
-  <a class="cta-card" href="/about/">
+  <a class="cta-card" href="{{ '/about/' | url }}">
     <h2 class="cta-title">
       <span class="cta-badge" aria-hidden="true">
         <img
