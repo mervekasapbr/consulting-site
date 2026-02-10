@@ -19,8 +19,8 @@ title: Merve Kasap — Consulting
       <span class="cta-badge cta-badge--investors" aria-hidden="true">
         <img
           class="cta-icon"
-          src="/assets/icons/icon-investors-256.png"
-          srcset="/assets/icons/icon-investors-256.png 1x, /assets/icons/icon-investors-512.png 2x"
+          src="{{ '/assets/icons/icon-investors-256.png' | url }}"
+	  srcset="{{ '/assets/icons/icon-investors-256.png' | url }} 1x, {{ '/assets/icons/icon-investors-512.png' | url }} 2x"
           alt=""
         />
       </span>
@@ -35,8 +35,8 @@ title: Merve Kasap — Consulting
       <span class="cta-badge" aria-hidden="true">
         <img
           class="cta-icon"
-          src="/assets/icons/icon-legal-black-256.png"
-          srcset="/assets/icons/icon-legal-black-256.png 1x, /assets/icons/icon-legal-black-512.png 2x"
+          src="{{ '/assets/icons/icon-legal-black-256.png' | url }}"
+	  srcset="{{ '/assets/icons/icon-legal-black-256.png' | url }} 1x, {{ '/assets/icons/icon-legal-black-512.png' | url }} 2x"
           alt=""
         />
       </span>
@@ -51,8 +51,8 @@ title: Merve Kasap — Consulting
       <span class="cta-badge" aria-hidden="true">
         <img
           class="cta-icon"
-          src="/assets/icons/icon-about-black-256.png"
-          srcset="/assets/icons/icon-about-black-256.png 1x, /assets/icons/icon-about-black-512.png 2x"
+          src="{{ '/assets/icons/icon-about-black-256.png' | url }}"
+	  srcset="{{ '/assets/icons/icon-about-black-256.png' | url }} 1x, {{ '/assets/icons/icon-about-black-512.png' | url }} 2x"
           alt=""
         />
       </span>
